@@ -14,7 +14,7 @@ Sum up:
 - Supports **global** attribution (explaining model behavior over the entire input distribution).  
 - Supports **local** attribution (explaining the prediction at a specific input point).  
 - Two approximation strategies:
-  - **Riemann‐sum**: grid‐based approach.
+  - **Riemann‐sum**: GPU-vectorized grid‐based approach.
   - **Monte Carlo**: sampling approach (can be adapted by overwriting the sampler).
 
 ---
