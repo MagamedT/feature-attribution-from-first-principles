@@ -1,6 +1,6 @@
 # feature-attribution-from-first-principles
 
-Implementation of the feature attribution framework introduced in [“Feature Attribution from First Principles”](https://arxiv.org/abs/2304.06110). This code provides a simple interface to compute both **global** and **local** feature attributions for differentiable models by approximating the integrals described in the paper via Riemann sums or Monte-Carlo sampling.
+Implementation of the feature attribution framework introduced in [“Feature Attribution from First Principles”](https://arxiv.org/abs/2505.24729). This code provides a simple interface to compute both **global** and **local** feature attributions for differentiable models by approximating the integrals described in the paper via Riemann sums or Monte-Carlo sampling.
 
 
 ## Overview
