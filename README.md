@@ -5,7 +5,7 @@ Implementation of the feature attribution framework introduced in [“Feature At
 
 ## Overview
 
-The “Feature Attribution from First Principles” framework derives feature contributions by formulating them as Stieltjes integrals over the input space. In practice, one must approximate these integrals numerically. This repository provides:
+The “Feature Attribution from First Principles” framework derives feature attributions by formulating them as Stieltjes integrals over the input space. In practice, one must approximate these integrals numerically. This repository provides:
 
 1. **`fam.py`**: Core implementation of the Stieltjes attribution methods.  
 2. **`framework_illustration.ipynb`**: Jupyter notebook with illustrative examples for linear and small ReLU networks.  
